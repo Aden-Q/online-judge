@@ -10,6 +10,8 @@
 
 [Kattis](./Kattis)
 
+[剑指offer](./剑指offer)
+
 ## Issue
 
 Zecheng Qian - qian0102@umn.edu
